@@ -5,7 +5,8 @@
     android:id="@+id/constraintLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".HomeFragment" >
+    android:background="#EA80FC"
+    tools:context=".HomeFragment">
 
     <TextView
         android:id="@+id/textView2"

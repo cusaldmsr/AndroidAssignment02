@@ -5,7 +5,8 @@
     android:id="@+id/constraintLayout2"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SettingsFragment" >
+    android:background="#B9F6CA"
+    tools:context=".SettingsFragment">
 
     <TextView
         android:id="@+id/textView3"
