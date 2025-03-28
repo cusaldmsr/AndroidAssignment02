@@ -48,5 +48,6 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     implementation("pl.droidsonroids.gif:android-gif-drawable:1.2.19")
+    implementation("androidx.fragment:fragment-ktx:1.6.2")
 
 }
