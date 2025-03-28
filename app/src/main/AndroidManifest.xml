@@ -13,6 +13,9 @@
         android:theme="@style/Theme.AndroidAssignment02"
         tools:targetApi="31">
         <activity
+            android:name=".EndActivity"
+            android:exported="false" />
+        <activity
             android:name=".SplashActivity"
             android:exported="true">
             <intent-filter>
@@ -24,6 +27,7 @@
         <activity
             android:name=".MainActivity"
             android:exported="true" />
+
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
